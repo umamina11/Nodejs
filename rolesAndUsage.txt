@@ -1,0 +1,21 @@
+we need javascript on the server
+client-----> server(database, business logic, authentication, input validation)
+      <-----
+
+node js is not limited to just as a server 
+- it is a javascript a runtime (can execute any code on js server)
+we can use it for local utility codes and build tools 
+- great tool to write utility tools 
+- it is used to in webdevelopment 
+-it allow them to run on server( create and listen to incoming requests like the php codes and other)
+-it used for all our business logics like handle requests, validate input and connect to data base
+-it can also send responses( return responses such as render the HTML file or the JSON files and other)
+-alternative to node js are like python, ruby, ASp.NET and many more
+- for the exectution of the node code is REPL it standa for 
+    - read : for reading the input from the user 
+    - Evaluation : to evaluate and authenticate the user input 
+    - Print : printing the results in form of output for the users
+    - Loop : Again wait for the user to give input or set of instruction to perfrom the task and system will gives the output
+alternative is to execute the files other than REPL
+    -as it is use for real apps
+    -prediction sequence of steps
