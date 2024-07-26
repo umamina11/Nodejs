@@ -1,1 +1,11 @@
- 
+ javascript is weakly types programming language it has no explicit type asseignment like boolean other 
+ - we cant switch data type dynamicallt alike the other language
+ - it is considered as objected oriencted programming
+ organised in logical objects
+ it is primitive and reference types 
+ - it is a versatile language
+ runs in browser and directly on the PC/ server
+ can perfrom a broad variety of task
+
+
+
